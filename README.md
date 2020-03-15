@@ -1,3 +1,4 @@
+[![Build Status](https://marleixo.visualstudio.com/CiSecond/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=master)](https://marleixo.visualstudio.com/CiSecond/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
